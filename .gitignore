@@ -3,7 +3,8 @@
 
 ### dotenv ###
 .env
-
+init_query.sql
+dbt.db
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/

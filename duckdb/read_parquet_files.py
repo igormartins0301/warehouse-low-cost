@@ -28,3 +28,4 @@ def query_s3_duckdb(bucket_name):
 
 
 query_s3_duckdb('football-data-igor-0301')
+# %%
